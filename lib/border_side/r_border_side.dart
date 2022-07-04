@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+export 'r_dotted_line_border_side.dart';
+export 'r_gradient_line_border_side.dart';
 
 abstract class RBorderSide extends BorderSide {
   const RBorderSide({

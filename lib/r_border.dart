@@ -1,9 +1,8 @@
 library r_border;
 
-import 'dart:ui';
+export 'border_side/r_border_side.dart';
 
 import 'package:flutter/material.dart';
-
 import 'border_side/r_border_side.dart';
 
 class RBorder extends BoxBorder {
